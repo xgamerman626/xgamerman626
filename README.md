@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xgamerman626
+- 👀 I’m interested in roblox developing/exploiting.
+- 🌱 I’m currently learning Lua/C.
+- 💞️ I’m looking to collaborate on roblox exploiting.
+- 📫 How to reach me xgamer626#1683
