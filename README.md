@@ -3,7 +3,7 @@
 </p> -->
 
 ## About Me 📝
-I'm a 16-year-old game developer and software engineer. I got into the programming field about a year and a half ago. I started off by learning Lua because of how much the top games on Roblox inspired me as a little kid. I've made a ton of mistakes along the way but learned from them, which then taught me to make top-notch games that have a ton of potential. Later on, I decided to move on from Lua as my main programming language and am now switching over to C and Python to learn how the computer operates and to get into the ethical hacking field while still trying to work on side-projects on Roblox and having fun.
+BLANK
 
 ## Projects 🖥️
 
